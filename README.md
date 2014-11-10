@@ -1,4 +1,4 @@
-现在linux下ssh使用比较广泛的是openssh包
+使用`ssh`的tcp_forword功能。现在linux下ssh使用比较广泛的是openssh包
 
 ###ssh相关选项：###
 * `-V`  
